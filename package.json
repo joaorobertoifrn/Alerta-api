@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/joaorobertoifrn/alerta-api/issues"
   },
-  "homepage": "https://github.com/joaorobertoifrn/alerta-api#readme"
+  "homepage": "https://github.com/joaorobertoifrn/alerta-api#readme",
+  "dependencies": {
+    "restify": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/restify": "8.4.0"
+  }
 }
