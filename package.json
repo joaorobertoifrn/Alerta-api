@@ -1,0 +1,22 @@
+{
+  "name": "alerta-api",
+  "version": "1.0.0",
+  "description": "Projeto API - Sistema de Emissão de Alertas (IFRN)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaorobertoifrn/alerta-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "João Roberto de França Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaorobertoifrn/alerta-api/issues"
+  },
+  "homepage": "https://github.com/joaorobertoifrn/alerta-api#readme"
+}
